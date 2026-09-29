@@ -1,0 +1,8 @@
+{
+  "name": "Alora Dental Studio",
+  "description": "Alora Dental Studio offers personalised, modern dental care designed around your comfort, confidence and long-term oral health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

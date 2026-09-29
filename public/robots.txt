@@ -1,0 +1,8 @@
+# Production robots.txt for ORA Dental
+# https://oradental.co.uk
+
+User-agent: *
+Allow: /
+
+# Host & Sitemap
+Sitemap: https://oradental.co.uk/sitemap.xml
